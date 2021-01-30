@@ -1,6 +1,8 @@
 React-redux based application for test task
 ==================================
 [Demo](https://book-store-c22e3.web.app/)
+
+==================================================
 ==================================================
 ![screen](https://github.com/AlexKonichek/Test-task-Book-Store/blob/master/public/img/Screenshot_3.jpg)
 ![screen](https://github.com/AlexKonichek/Test-task-Book-Store/blob/master/public/img/Screenshot_1.jpg)
