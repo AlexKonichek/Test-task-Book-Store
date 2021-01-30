@@ -11,12 +11,9 @@ import store from './store';
 
 const bookstoreService = new BookstoreService();
 
-const sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
 
-const onSubmit = async values => {
-  await sleep(300)
-  window.alert(JSON.stringify(values, 0, 2))
-}
+
+
 
 ReactDOM.render(
   <Provider store={store}>

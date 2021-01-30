@@ -1,14 +1,14 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import './shopping-cart-table.css';
-import { Link } from 'react-router-dom';
+
 
 import { allBooksRemovedFromCart,
          bookRemovedFromCart,
          bookAddedToCart } from '../../actions';
 
 const ShoppingCartTable = ({ items, books, onIncrease, onDecrease, onDelete }) => {
-  let totalAll=null;
+  let totalAll;
   
   if(items.length>0){
     totalAll = Math.round(items.map((item) => item.total).reduce((acc,cur) => acc+cur));
