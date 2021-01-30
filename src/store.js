@@ -1,5 +1,5 @@
 import { createStore} from 'redux';
-import {loadState, saveState } from './localStorage'
+import {saveState } from './localStorage'
 import  reducer from './reducers';
 
 
