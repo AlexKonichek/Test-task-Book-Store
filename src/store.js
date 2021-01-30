@@ -3,10 +3,10 @@ import {loadState, saveState } from './localStorage'
 import  reducer from './reducers';
 
 
-const data = loadState();
-const persistedState = data.state;
+//const data = loadState();
+//const persistedState = data.state;
 
-const store = createStore(reducer, persistedState);
+const store = createStore(reducer);
 
 store.subscribe(() => {
   saveState({
