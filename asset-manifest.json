@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Test-task-Book-Store/static/css/main.4ad84b67.chunk.css",
-    "main.js": "/Test-task-Book-Store/static/js/main.ed498c20.chunk.js",
-    "main.js.map": "/Test-task-Book-Store/static/js/main.ed498c20.chunk.js.map",
+    "main.js": "/Test-task-Book-Store/static/js/main.c489c490.chunk.js",
+    "main.js.map": "/Test-task-Book-Store/static/js/main.c489c490.chunk.js.map",
     "runtime-main.js": "/Test-task-Book-Store/static/js/runtime-main.5d399b95.js",
     "runtime-main.js.map": "/Test-task-Book-Store/static/js/runtime-main.5d399b95.js.map",
     "static/js/2.c53fb9b1.chunk.js": "/Test-task-Book-Store/static/js/2.c53fb9b1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5d399b95.js",
     "static/js/2.c53fb9b1.chunk.js",
     "static/css/main.4ad84b67.chunk.css",
-    "static/js/main.ed498c20.chunk.js"
+    "static/js/main.c489c490.chunk.js"
   ]
 }
