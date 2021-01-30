@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Test-task-Book-Store/static/css/main.6bf4b5a0.chunk.css",
+    "main.js": "/Test-task-Book-Store/static/js/main.d9c18f94.chunk.js",
+    "main.js.map": "/Test-task-Book-Store/static/js/main.d9c18f94.chunk.js.map",
+    "runtime-main.js": "/Test-task-Book-Store/static/js/runtime-main.5d399b95.js",
+    "runtime-main.js.map": "/Test-task-Book-Store/static/js/runtime-main.5d399b95.js.map",
+    "static/js/2.d63352be.chunk.js": "/Test-task-Book-Store/static/js/2.d63352be.chunk.js",
+    "static/js/2.d63352be.chunk.js.map": "/Test-task-Book-Store/static/js/2.d63352be.chunk.js.map",
+    "index.html": "/Test-task-Book-Store/index.html",
+    "static/css/main.6bf4b5a0.chunk.css.map": "/Test-task-Book-Store/static/css/main.6bf4b5a0.chunk.css.map",
+    "static/js/2.d63352be.chunk.js.LICENSE.txt": "/Test-task-Book-Store/static/js/2.d63352be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d399b95.js",
+    "static/js/2.d63352be.chunk.js",
+    "static/css/main.6bf4b5a0.chunk.css",
+    "static/js/main.d9c18f94.chunk.js"
+  ]
+}
