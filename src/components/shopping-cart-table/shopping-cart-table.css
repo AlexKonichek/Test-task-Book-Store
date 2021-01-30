@@ -1,0 +1,21 @@
+
+ .logo {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 3.5rem;
+  padding-left: 1rem;
+  color: rgb(0, 98, 204);
+}
+
+.shopping-cart-table {
+   margin: 45px;
+}
+  
+.shopping-cart-table .total {
+    text-align: left;
+    font-size: 1.3rem;
+    margin-right: 10px;
+}
+  
+.table td {
+    vertical-align: middle
+}
